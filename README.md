@@ -1,2 +1,42 @@
-# 160c418d-podcast-production-loyalty-pro
-Your podcast listeners tune in once, then disappear. Without a way to reward engagement and encourage repeat listening, you're leaving listener loyalty and word-of-mouth growth on the table.  The Podcast Production Loyalty Program and Rewards WordPress Plugin transforms casual listeners into loyal fans by gamifying your podcast experience directly
+# Podcast Production Loyalty Program and Rewards WordPress Plugin
+
+> Plugin for Podcast Production
+
+Your podcast listeners tune in once, then disappear. Without a way to reward engagement and encourage repeat listening, you're leaving listener loyalty and word-of-mouth growth on the table.
+
+The Podcast Production Loyalty Program and Rewards WordPress Plugin transforms casual listeners into loyal fans by gamifying your podcast experience...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/dRmeVd9z9bUE4pqeM4cZs1H)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
